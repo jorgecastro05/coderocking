@@ -98,6 +98,3 @@ Commercial support is available at
 </body>
 </html>
 ~~~
-
-If you vm has a hostname and you configured the dnsmasq resolution (use this example link), 
-from your host machine you can access without making aditional configurations:
