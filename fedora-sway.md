@@ -108,3 +108,8 @@ setup-playbook.yaml
       dest: ~/.fonts
       remote_src: yes
 ~~~
+
+you can customize according your needs, this playbook manages flatpak software, container tools and several fonts and themes as well.
+run the playbook with the user permissions to install software
+
+    ansible-playbook ~/.config/setup-playbook.yaml -b --ask-become-pass
