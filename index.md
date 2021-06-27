@@ -1,2 +1,2 @@
-## Coderocking personal blog
+## Coderocking Blog
 ### Useful things discovered
