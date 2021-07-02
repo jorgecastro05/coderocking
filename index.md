@@ -3,8 +3,6 @@
 
 ## Posts
 
-[A minimal installation with Fedora and Swaywm](fedora-sway.md)
-
 [Create Easy Virtual machines from cloud images using Ansible playbooks](ansible-cloud-images-vm.md)
 
 [Install eclipse Che on Microk8s Using ubuntu 18.04 LTS Cloud Image VM](eclipse-che.md)
