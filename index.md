@@ -1,5 +1,7 @@
 ## Coderocking Blog
-### Useful things discovered
+
+### _Wonder is the beginning of wisdom._
+#### Socrates 
 
 ## Technical notes
 
