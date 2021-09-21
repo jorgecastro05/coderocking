@@ -9,6 +9,8 @@
 
 [Minimal Fedora Instalation with sway and Ansible](fedora-sway.md)
 
+[Minimal Fedora Instalation with i3wm and Ansible](fedora-i3.md)
+
 [Deploy Grails 4 Applications in heroku](grails.md)
 
 [Configure OKD 3.11 For Jkube Deployment Access](jkube.md)
