@@ -1,7 +1,7 @@
 ## Coderocking Blog
 ### Useful things discovered
 
-## Posts
+## Technical notes
 
 [Create Easy Virtual machines from cloud images using Ansible playbooks](ansible-cloud-images-vm.md)
 
@@ -16,3 +16,5 @@
 [Configure OKD 3.11 For Jkube Deployment Access](jkube.md)
 
 [Install k3s on Fedora 32 Virtual Machine](k3s.md)
+
+## Middleware
