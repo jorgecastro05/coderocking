@@ -1,3 +1,3 @@
-# coderocking
-coderocking personal blog files for site
+# Blog
+personal blog files for site
 https://coderocking.lalius.com
