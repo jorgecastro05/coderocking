@@ -1,4 +1,4 @@
-## Coderocking Blog
+## Personal Blog
 
 ### _Wonder is the beginning of wisdom._
 #### Socrates 
